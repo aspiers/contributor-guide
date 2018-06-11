@@ -12,6 +12,7 @@ Code & Documentation Contributor Guide
    /common/accounts
    /common/governance
    /common/git
+   /common/github
    /common/task-tracking
    /common/events
    /common/setup-gerrit
